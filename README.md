@@ -7,9 +7,9 @@
 
 ## 📖 Project Description
 
-This repository contains a Python-based analytical pipeline developed for the **final exam** of a bioinformatics course focused on genomic data processing using Python. The program parses a multi-FASTA file, performs key biological analyses such as open reading frame (ORF) detection and repeat identification, and provides structured responses to biological questions.
+I developed this Python sequence-analysis exercise for the final assessment in **Python for Genomic Data Science**. I worked with multi-FASTA sequences, open reading frames (ORFs), and repeated sequence motifs to answer the course questions.
 
-This activity demonstrates a comprehensive understanding of:
+The exercise covers:
 
 * Nucleotide sequence parsing
 * ORF logic and biological reading frames
@@ -96,7 +96,7 @@ Make sure `dna2.fasta` is located in the same directory as the script.
 
 ## 🧠 Learning Outcomes
 
-This project represents a capstone for understanding core **Python bioinformatics principles**, including:
+In this project, I practised core Python skills for bioinformatics, including:
 
 * Translating biological requirements into algorithmic logic
 * Efficiently traversing DNA sequences for meaningful features
@@ -107,7 +107,7 @@ This project represents a capstone for understanding core **Python bioinformatic
 
 ## 📜 Course Credit
 
-This project was completed as part of:
+I completed this project as part of:
 
 ### 📘 [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
 
@@ -125,12 +125,12 @@ This project was completed as part of:
 
 ## 📝 License
 
-This project is academic in nature and was developed for educational purposes.
+I developed this as a course exercise for learning and reference.
 Please use it for reference or learning with proper attribution.
 
 ---
 
 ## 🙌 Acknowledgments
 
-Special thanks to the instructors of **Johns Hopkins University and the Coursera Team** for creating a structured and highly practical course in Python for Genomic Data Science.
+I thank the instructors at **Johns Hopkins University** and the **Coursera** team for the course material.
 
